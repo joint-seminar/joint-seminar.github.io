@@ -33,7 +33,7 @@ This term's event will be hosted virtually through zoom on **March 12, 2022** st
 
 ---
 
-### <span style="color:#1756a9"> First Speaker </span>
+### <span style="color:#1756a9"> Xiaomeng Ju (UBC) </span>
 #### <span style="color:#1756a9"> 9:35am - 10:00am </span>
 
 <table cellspacing="0" cellpadding="0">
@@ -59,7 +59,7 @@ Title and abstract coming soon.
 
 ---
 
-### <span style="color:#1756a9"> Third Speaker </span>
+### <span style="color:#1756a9"> Nikola Surjanovic (UBC) </span>
 #### <span style="color:#1756a9"> 10:25am - 10:50am </span>
 
 <table cellspacing="0" cellpadding="0">
@@ -90,7 +90,7 @@ Title and abstract coming soon.
 
 ---
 
-### <span style="color:#1756a9"> Fifth Speaker </span>
+### <span style="color:#1756a9"> Quanhan (Johnny) Xi (UBC) </span>
 #### <span style="color:#1756a9"> 11:25am - 11:50am </span>
 
 <table cellspacing="0" cellpadding="0">
