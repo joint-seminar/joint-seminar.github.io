@@ -14,7 +14,7 @@ h2, h3, h4 {
 
 # About
 
-The UBC/SFU Joint Statistics Seminar is jointly hosted by the graduate students of the [UBC Department of Statistics](https://www.stat.ubc.ca/) and the [SFU Department of Statistics and Actuarial Science](https://www.sfu.ca/stat-actsci.html). The Spring 2022 event is the second of two events taking place in the 2021/2022 academic year. The Fall 2021 event was organized by graduate students from SFU, and the Spring 2022 event is organized by graduate students from UBC. Over its 17-year history, the event offers Statistics and Actuarial Science graduate and undergraduate students at both schools an opportunity to network with their peers and to attend accessible talks about the research work of their fellow students and faculty. 
+The UBC/SFU Joint Statistics Seminar is jointly hosted by the graduate students of the [UBC Department of Statistics](https://www.stat.ubc.ca/) and the [SFU Department of Statistics and Actuarial Science](https://www.sfu.ca/stat-actsci.html). The Spring 2022 event is the second of two events taking place in the 2021/2022 academic year. The Fall 2021 event was organized by graduate students from SFU, and the Spring 2022 event is organized by graduate students from UBC. Over its 17-year history, the event has offered Statistics and Actuarial Science graduate and undergraduate students at both schools an opportunity to network with their peers and to attend accessible talks about the research work of their fellow students and faculty. 
 
 The Spring 2022 event includes talks given by six students (three from UBC and three from SFU) and one faculty member from UBC.
 
