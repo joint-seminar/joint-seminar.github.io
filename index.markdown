@@ -46,7 +46,7 @@ Title and abstract coming soon.
 
 ---
 
-### <span style="color:#1756a9"> Second Speaker </span>
+### <span style="color:#1756a9"> Elijah Cavan (SFU) </span>
 #### <span style="color:#1756a9"> 10:00am - 10:25am </span>
 
 <table cellspacing="0" cellpadding="0">
@@ -77,7 +77,7 @@ Title and abstract coming soon.
 
 ---
 
-### <span style="color:#1756a9"> Fourth Speaker </span>
+### <span style="color:#1756a9"> Wendy Wang (SFU) </span>
 #### <span style="color:#1756a9"> 11:00am - 11:25am </span>
 
 <table cellspacing="0" cellpadding="0">
@@ -103,7 +103,7 @@ Title and abstract coming soon.
 
 ---
 
-### <span style="color:#1756a9"> Sixth Speaker </span>
+### <span style="color:#1756a9"> Mandy Yao (SFU) </span>
 #### <span style="color:#1756a9"> 11:50am - 12:15pm </span>
 
 <table cellspacing="0" cellpadding="0">
