@@ -85,7 +85,8 @@ Title and abstract coming soon.
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/speaker.png">
 </td><td>
-Title and abstract coming soon.
+<p><strong>Selection Between Variance-Optimal and Bias-Optimal Designs When Some Two-Factor Interactions Are Important</strong></p>
+<p style="text-align:justify">Fractional factorial designs are widely used in many fields of studies because they allow us to study the effects of many factors on the response. However, as the primary interest of most experiments is for screening important factors, interactions are generally assumed to be negligible. When some two-factor interactions are important, we consider two types of designs which are namely, variance-optimal designs and bias-optimal designs. In our study, we compare these two types of designs by using a mean squared error criterion that takes effect sparsity into consideration. We obtain a close-form expression of this mean squared error criterion for the two types of designs. Under different levels of sparsity, comparison results are obtained for designs of 10, 12, 14, 20, 26, 28 runs, which will help practitioners to choose between the two types of designs.</p>
 </td></tr>
 </table>
 
@@ -111,7 +112,8 @@ Title and abstract coming soon.
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/speaker.png">
 </td><td>
-Title and abstract coming soon.
+<p><strong>Effect of numerical errors on the convergence and accuracy of Markov Chains</strong></p>
+<p style="text-align:justify">Markov Chain Monte Carlo (MCMC) algorithms are a class of methods that is widely used to draw samples from a probability distribution and draw inferences. In particular, it constructs a stochastic process whose limiting distribution is the unknown distribution of interest in a given problem. For example, it can be used for Bayesian Calibration, which is the problem of determining a distribution for parameters in a physical model from noisy observations on the output of the model using a Bayesian approach. In practice, there could be numerical errors in the computer simulations that affect the MCMC samples, and this could have a significant effect on convergence and accuracy. To study this, we use some existing theory on the convergence of perturbed stable Markov Chains, which works with a “roundoff error” that arises from the finite precision of computer computation. We adapt this theory to derive some conditions that guarantee the convergence of MCMC algorithms when a more general model for computational error is used. We also quantify the effect of error on the accuracy of the MCMC samples using a time series model.</p>
 </td></tr>
 </table>
 
