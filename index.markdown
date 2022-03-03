@@ -65,9 +65,10 @@ Title and abstract coming soon.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
+<img src="assets/NikolaSurjanovic.jpg">
 </td><td>
-Title and abstract coming soon.
+<p><strong>Music Theory: Mathematical Results and Curiosities</strong></p>
+<p style="text-align:justify">What does the fundamental theorem of arithmetic have to do with music? What does it mean to play something “in tune” and can this notion be formalized to a certain extent? As mathematicians and statisticians, we are in a fortunate position to be able to understand some of these concepts. I plan to present a brief overview of music theory and some curious mathematical results that will (hopefully) surprise most people. Some possible topics include: the fundamental theorem of arithmetic and Pythagorean tuning, the twelfth root of two and equal temperament, and differential equations and overtones.</p>
 </td></tr>
 </table>
 
@@ -131,7 +132,8 @@ Title and abstract coming soon.
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/KeeganKorthauer.jpeg">
 </td><td>
-Title and abstract coming soon.
+<p><strong>Plugging the leaky pipeline in Statistics</strong></p>
+<p style="text-align:justify">The “leaky pipeline” is a metaphor often used to describe the lack of women making career advancements in STEM fields. The field of statistics is not immune to this phenomenon. Although women currently earn graduate degrees in statistics at similar rates to men, they are underrepresented in senior roles and leadership positions in academia. In this talk, I will describe the visible and invisible barriers that were overcome by pioneering women in statistics, outline some of the major factors that continue to perpetuate the leaky pipeline, and discuss its outlook for the statistics community. My goal is for you to come away with (1) awareness and recognition of the challenge of retaining women in STEM fields, including statistics, and (2) concrete strategies to help repair the leaky pipeline in our field.</p>
 </td></tr>
 </table>
 
