@@ -68,6 +68,7 @@ Title and abstract coming soon.
 <img src="assets/NikolaSurjanovic.jpg">
 </td><td>
 <p><strong>Music Theory: Mathematical Results and Curiosities</strong></p>
+<p style="text-align:justify">Note: I have decided to present a fun, math-related talk instead of a formal “research” talk at this year’s event. I hope there will be something new for everyone to enjoy.</p>
 <p style="text-align:justify">What does the fundamental theorem of arithmetic have to do with music? What does it mean to play something “in tune” and can this notion be formalized to a certain extent? As mathematicians and statisticians, we are in a fortunate position to be able to understand some of these concepts. I plan to present a brief overview of music theory and some curious mathematical results that will (hopefully) surprise most people. Some possible topics include: the fundamental theorem of arithmetic and Pythagorean tuning, the twelfth root of two and equal temperament, and differential equations and overtones.</p>
 </td></tr>
 </table>
@@ -98,9 +99,10 @@ Title and abstract coming soon.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
+<img src="assets/JohnnyXi.jpg">
 </td><td>
-Title and abstract coming soon.
+<p><strong>Identification of Latent Variables in Generative Modeling</strong></p>
+<p style="text-align:justify">Generative models aim to fit data by passing simple latent factors through complex generator functions. Leveraging modern functional parametrizations such as deep neural networks, generative modeling has excelled on tasks such as generating synthetic images and reconstruction with relatively simple prior latent distributions. In image data, for example, the latent factors are of much lower dimension than the pixel space, and we also wish to perform inference on them as a form of dimension reduction in hopes of recovering higher-level factors of variation. Recently, there has been an effort to examine the latent variable identifiability of these models equipped with the flexibility of arbitrary, non-linear functions. In this talk, we give a characterization of the indeterminacies of a general class of generative models, from which many existing results may be readily deduced. Armed with insights from our results, we propose a strongly identifiable generative model with a fully flexible generator by leveraging data arising from multiple environments. We show a proof-of-concept implementation of a linear generator, in a modern take on factor analysis.</p>
 </td></tr>
 </table>
 
