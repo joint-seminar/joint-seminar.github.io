@@ -38,9 +38,10 @@ This term's event will be hosted virtually through zoom on **March 12, 2022** st
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
+<img src="assets/XiaomengJu.jpeg">
 </td><td>
-Title and abstract coming soon.
+<p><strong>Tree-based boosting with functional data</strong></p>
+<p style="text-align:justify">We present a robust regression estimator for models with a functional explanatory variable and a scalar response. The algorithm uses decision trees constructed with multiple projections as the "base-learners", which we call "functional multi-index trees”. Compared with widely studied single-index estimators, our multi-index estimator enables modelling possible interactions between indices, allowing us to better approximate complex regression functions. The effectiveness of our method is illustrated using a numerical experiment that compares it with several linear and nonlinear regression estimators, including recently proposed nonparametric and semiparametric functional additive estimators.</p>
 </td></tr>
 </table>
 
