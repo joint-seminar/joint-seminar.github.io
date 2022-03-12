@@ -137,6 +137,7 @@ This term's event will be hosted virtually through zoom on **March 12, 2022** st
 </td><td>
 <p><strong>Plugging the leaky pipeline in Statistics</strong></p>
 <p style="text-align:justify">The “leaky pipeline” is a metaphor often used to describe the lack of women making career advancements in STEM fields. The field of statistics is not immune to this phenomenon. Although women currently earn graduate degrees in statistics at similar rates to men, they are underrepresented in senior roles and leadership positions in academia. In this talk, I will describe the visible and invisible barriers that were overcome by pioneering women in statistics, outline some of the major factors that continue to perpetuate the leaky pipeline, and discuss its outlook for the statistics community. My goal is for you to come away with (1) awareness and recognition of the challenge of retaining women in STEM fields, including statistics, and (2) concrete strategies to help repair the leaky pipeline in our field.</p>
+<p>Link to the slides can be found <a href="bit.ly/leakypipeline-statistics" style="color:#1756a9">here</a>.</p>
 </td></tr>
 </table>
 
